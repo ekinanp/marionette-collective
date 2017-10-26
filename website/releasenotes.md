@@ -8,6 +8,16 @@ This is a list of release notes for various releases, you should review these
 before upgrading as any potential problems and backward incompatible changes
 will be highlighted here.
 
+<a name="2_11.4">&nbsp;</a>
+
+## 2.11.4 - DATE
+
+### Changes since PREVIOUS VERSION
+
+|Date|Description|Ticket|
+|----|-----------|------|
+|DATE|Release *2.11.4*||
+
 <a name="2_11_3">&nbsp;</a>
 
 ## 2.11.3 - 2017/09/20
